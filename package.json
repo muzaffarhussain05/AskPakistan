@@ -1,0 +1,38 @@
+{
+  "name": "ask-pakistan",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "test": "vitest run",
+    "test-mongo": "node scripts/test-mongo.js",
+    "crawl": "node crawler/index.js",
+    "eval": "node scripts/run-eval.js",
+    "create-indexes": "node scripts/create-indexes.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0",
+    "@google/generative-ai": "^0.24.1",
+    "cheerio": "^1.2.0",
+    "dompurify": "^3.4.16",
+    "marked": "^18.0.14",
+    "mongodb": "^7.7.0",
+    "next": "16.3.8",
+    "p-limit": "^7.3.3",
+    "pdf-parse": "^2.4.5",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "robots-parser": "^3.0.1",
+    "vitest": "^4.1.11"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.8",
+    "tailwindcss": "^4"
+  }
+}
