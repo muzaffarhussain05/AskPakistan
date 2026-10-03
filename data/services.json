@@ -1,0 +1,74 @@
+[
+  {
+    "id": "nadra-id",
+    "title": "Pak-Identity (NADRA)",
+    "description": "Online CNIC renewal, NICOP & Family Registration",
+    "url": "https://id.nadra.gov.pk",
+    "category": "ID & Identity",
+    "badge": "Official Portal"
+  },
+  {
+    "id": "dgip-passport",
+    "title": "e-Passport Portal (DGIP)",
+    "description": "Online Machine Readable & e-Passport Renewal",
+    "url": "https://onlinemrp.dgip.gov.pk",
+    "category": "Passports",
+    "badge": "Official Portal"
+  },
+  {
+    "id": "fbr-iris",
+    "title": "FBR IRIS Portal",
+    "description": "Income Tax return filing, NTN & Active Taxpayer List",
+    "url": "https://iris.fbr.gov.pk",
+    "category": "Tax & Filer",
+    "badge": "Official Portal"
+  },
+  {
+    "id": "secp-eservices",
+    "title": "SECP eServices",
+    "description": "Company incorporation & business registration",
+    "url": "https://eservices.secp.gov.pk",
+    "category": "Business",
+    "badge": "Official Portal"
+  },
+  {
+    "id": "bisp-8171",
+    "title": "8171 BISP Web Portal",
+    "description": "Check eligibility for Kafaalat & stipend programs",
+    "url": "https://8171.bisp.gov.pk",
+    "category": "Social Support",
+    "badge": "Official Portal"
+  },
+  {
+    "id": "pta-dirbs",
+    "title": "PTA DIRBS Portal",
+    "description": "Mobile phone IMEI verification & device registration",
+    "url": "https://dirbs.pta.gov.pk",
+    "category": "Mobile & PTA",
+    "badge": "Official Portal"
+  },
+  {
+    "id": "hec-eportal",
+    "title": "HEC E-Portal",
+    "description": "Degree attestation & equivalence application system",
+    "url": "https://eportal.hec.gov.pk",
+    "category": "Education",
+    "badge": "Official Portal"
+  },
+  {
+    "id": "dlims-punjab",
+    "title": "DLIMS Punjab",
+    "description": "Driving license online portal and verification",
+    "url": "https://dlims.punjab.gov.pk",
+    "category": "Vehicles",
+    "badge": "Official Portal"
+  },
+  {
+    "id": "pmdu-portal",
+    "title": "Pakistan Citizen Portal (PMDU)",
+    "description": "Citizen complaint registration & tracking",
+    "url": "https://pmdu.gov.pk",
+    "category": "Complaints",
+    "badge": "Official Portal"
+  }
+]

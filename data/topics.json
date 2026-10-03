@@ -1,0 +1,194 @@
+[
+  {
+    "id": "id",
+    "icon": "id-card",
+    "title": { "en": "ID & Family", "ur": "شناختی کارڈ اور خاندان" },
+    "description": { "en": "CNIC renewal, NICOP, B-Form & FRC", "ur": "شناختی کارڈ، نائیکوپ، بی فارم اور ایف آر سی" },
+    "questions": [
+      {
+        "en": "How do I renew my expired CNIC online?",
+        "ur": "میں اپنا شناختی کارڈ آن لائن کیسے رینیو کروا سکتا ہوں؟"
+      },
+      {
+        "en": "What documents are required for a B-Form (Child Registration Certificate)?",
+        "ur": "بچوں کا بی فارم بنوانے کے لیے کون سے دستاویزات درکار ہیں؟"
+      }
+    ]
+  },
+  {
+    "id": "passport",
+    "icon": "passport",
+    "title": { "en": "Passport & Travel", "ur": "پاسپورٹ اور سفر" },
+    "description": { "en": "Machine readable & e-Passport fees and process", "ur": "پاسپورٹ کی فیس، رینیوول اور طریقہ کار" },
+    "questions": [
+      {
+        "en": "What is the official fee for a 10-year urgent passport?",
+        "ur": "دس سالہ ارجنٹ پاسپورٹ کی سرکاری فیس کتنی ہے؟"
+      },
+      {
+        "en": "How can I renew my Pakistani passport online?",
+        "ur": "آن لائن پاسپورٹ رینیو کرنے کا کیا طریقہ ہے؟"
+      }
+    ]
+  },
+  {
+    "id": "tax",
+    "icon": "calculator",
+    "title": { "en": "Tax & Filer", "ur": "ٹیکس اور فائلر" },
+    "description": { "en": "NTN registration, Active Taxpayer List & IRIS", "ur": "این ٹی این رجسٹریشن، ایکٹو ٹیکس پیئر لسٹ اور آئرس" },
+    "questions": [
+      {
+        "en": "How do I register for NTN as an individual on FBR IRIS?",
+        "ur": "ایف بی آر آئرس پر نیا این ٹی این کیسے بنوایا جائے؟"
+      },
+      {
+        "en": "How can I check if my name is on the Active Taxpayer List (ATL)?",
+        "ur": "ایکٹو ٹیکس پیئر لسٹ (ATL) میں اپنا نام کیسے چیک کریں؟"
+      }
+    ]
+  },
+  {
+    "id": "jobs",
+    "icon": "briefcase",
+    "title": { "en": "Jobs & Exams", "ur": "ملازمتیں اور امتحانات" },
+    "description": { "en": "FPSC, PPSC & Government job applications", "ur": "ایف پی ایس سی، پی پی ایس سی اور سرکاری نوکریاں" },
+    "questions": [
+      {
+        "en": "How do I apply online for FPSC CSS examinations?",
+        "ur": "ایف پی ایس سی سی ایس ایس امتحان کے لیے آن لائن اپلائی کیسے کریں؟"
+      },
+      {
+        "en": "What is the procedure to pay fee for PPSC job posts?",
+        "ur": "پی پی ایس سی نوکریوں کے لیے فیس جمع کروانے کا طریقہ کیا ہے؟"
+      }
+    ]
+  },
+  {
+    "id": "support",
+    "icon": "heart-handshake",
+    "title": { "en": "Social Support", "ur": "مالی امداد اور بینظیر کفالت" },
+    "description": { "en": "BISP Kafaalat, Taleemi Wazaif & EOBI pension", "ur": "بینظیر انکم سپورٹ پروگرام، تعلیمی وظائف اور ای او بی آئی" },
+    "questions": [
+      {
+        "en": "How can I check my eligibility for BISP Kafaalat program via 8171?",
+        "ur": "8171 پر بینظیر کفالت پروگرام کے لیے اہلیت کیسے چیک کریں؟"
+      },
+      {
+        "en": "How to register an employee for EOBI pension benefits?",
+        "ur": "ای او بی آئی میں ملازم کی رجسٹریشن کیسے ہوتی ہے؟"
+      }
+    ]
+  },
+  {
+    "id": "business",
+    "icon": "building-storefront",
+    "title": { "en": "Business & SECP", "ur": "کاروبار اور رجسٹریشن" },
+    "description": { "en": "Company incorporation & business registration", "ur": "ایس ای سی پی کمپنی رجسٹریشن اور کاروبار" },
+    "questions": [
+      {
+        "en": "What are the steps to register a Private Limited Company with SECP?",
+        "ur": "ایس ای سی پی کے ساتھ پرائیویٹ لمیٹڈ کمپنی کیسے رجسٹر کی جاتی ہے؟"
+      },
+      {
+        "en": "How to reserve a company name on SECP eServices?",
+        "ur": "ایس ای سی پی پورٹل پر کمپنی کا نام کیسے ریزرو کریں؟"
+      }
+    ]
+  },
+  {
+    "id": "vehicles",
+    "icon": "truck",
+    "title": { "en": "Vehicles & License", "ur": "گاڑیاں اور ڈرائیونگ لائسنس" },
+    "description": { "en": "DLIMS driving license, token tax & verification", "ur": "ڈرائیونگ لائسنس، ٹوکن ٹیکس اور گاڑی کی تصدیق" },
+    "questions": [
+      {
+        "en": "How do I apply for a Learner Driving License on DLIMS Punjab?",
+        "ur": "ڈی ایل آئی ایم ایس پر لیرنر ڈرائیونگ لائسنس کیسے حاصل کریں؟"
+      },
+      {
+        "en": "How to verify vehicle registration details online in Punjab?",
+        "ur": "پنجاب میں گاڑی کی آن لائن ویری فکیشن کا طریقہ کیا ہے؟"
+      }
+    ]
+  },
+  {
+    "id": "complaints",
+    "icon": "shield-check",
+    "title": { "en": "Law & Complaints", "ur": "شکایات اور سٹیزن پورٹل" },
+    "description": { "en": "Pakistan Citizen Portal & legal reference search", "ur": "پاکستان سٹیزن پورٹل اور سرکاری شکایات" },
+    "questions": [
+      {
+        "en": "How do I submit a complaint on Pakistan Citizen's Portal?",
+        "ur": "پاکستان سٹیزن پورٹل پر شکایت کیسے درج کروائی جاتی ہے؟"
+      },
+      {
+        "en": "Where can I search for Pakistan official gazette and laws online?",
+        "ur": "پاکستان کے سرکاری قوانین کہاں آن لائن تلاش کیے جا سکتے ہیں؟"
+      }
+    ]
+  },
+  {
+    "id": "education",
+    "icon": "academic-cap",
+    "title": { "en": "Education & HEC", "ur": "تعليم اور اسناد کی تصدیق" },
+    "description": { "en": "HEC degree attestation & equivalence certificates", "ur": "ایچ ای سی ڈگری تصدیق اور آن لائن رجسٹریشن" },
+    "questions": [
+      {
+        "en": "What is the online process for HEC degree attestation?",
+        "ur": "ایچ ای سی ڈگری اٹیسٹیشن کا آن لائن طریقہ کیا ہے؟"
+      },
+      {
+        "en": "How to obtain FBISE duplicate marksheet or certificate?",
+        "ur": "ایف بی آئی ایس ای سے ڈوپلیکیٹ رزلٹ کارڈ کیسے حاصل کریں؟"
+      }
+    ]
+  },
+  {
+    "id": "utilities",
+    "icon": "bolt",
+    "title": { "en": "Electricity & Gas", "ur": "بجلی اور گیس بل" },
+    "description": { "en": "Duplicate bill download & new connection applications", "ur": "بجلی کا ڈوپلیکیٹ بل اور نیا کنکشن" },
+    "questions": [
+      {
+        "en": "How to download a duplicate electricity bill online?",
+        "ur": "بجلی کا نیا یا ڈوپلیکیٹ بل آن لائن کیسے ڈاؤن لوڈ کریں؟"
+      },
+      {
+        "en": "What documents are required for a new net metering connection?",
+        "ur": "نیٹ میٹرنگ کنکشن کے لیے کیا دستاویزات چاہیے؟"
+      }
+    ]
+  },
+  {
+    "id": "phones",
+    "icon": "device-phone-mobile",
+    "title": { "en": "Phones & PTA", "ur": "موبائل فون اور پی ٹی اے" },
+    "description": { "en": "PTA DIRBS mobile device registration & tax check", "ur": "پی ٹی اے موبائل فون رجسٹریشن اور آئی ایم ای آئی تصدیق" },
+    "questions": [
+      {
+        "en": "How do I check PTA mobile phone registration tax using IMEI?",
+        "ur": "پی ٹی اے موبائل فون ٹیکس اپنے آئی ایم ای آئی سے کیسے چیک کریں؟"
+      },
+      {
+        "en": "How to register a foreign mobile phone on PTA DIRBS portal?",
+        "ur": "بیرون ملک سے لایا گیا موبائل پی ٹی اے پر کیسے رجسٹر کریں؟"
+      }
+    ]
+  },
+  {
+    "id": "overseas",
+    "icon": "globe-alt",
+    "title": { "en": "Overseas Pakistanis", "ur": "بیرون ملک پاکستانی" },
+    "description": { "en": "Foreign employment clearance, NICOP & MOFA attestation", "ur": "اوورسیز پاکستانی، فاریو پروٹیکٹر اور نائیکوپ" },
+    "questions": [
+      {
+        "en": "How do I get Protector clearance for overseas job employment?",
+        "ur": "بیرون ملک نوکری کے لیے پروٹیکٹر آف ایمیگرینٹس سے کلیئرنس کیسے حاصل کریں؟"
+      },
+      {
+        "en": "What is the procedure for MOFA document attestation?",
+        "ur": "وزارت خارجہ (MOFA) سے دستاویزات کی تصدیق کا طریقہ کیا ہے؟"
+      }
+    ]
+  }
+]

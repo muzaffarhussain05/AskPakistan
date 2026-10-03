@@ -1,0 +1,225 @@
+[
+  {
+    "id": "nadra",
+    "name": "National Database and Registration Authority (NADRA)",
+    "baseUrl": "https://www.nadra.gov.pk",
+    "topic": "id",
+    "seedUrls": [
+      "https://www.nadra.gov.pk",
+      "https://id.nadra.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "dgip",
+    "name": "Directorate General of Immigration & Passports",
+    "baseUrl": "https://dgip.gov.pk",
+    "topic": "passport",
+    "seedUrls": [
+      "https://dgip.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "fbr",
+    "name": "Federal Board of Revenue (FBR)",
+    "baseUrl": "https://fbr.gov.pk",
+    "topic": "tax",
+    "seedUrls": [
+      "https://fbr.gov.pk",
+      "https://iris.fbr.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "secp",
+    "name": "Securities and Exchange Commission of Pakistan (SECP)",
+    "baseUrl": "https://www.secp.gov.pk",
+    "topic": "business",
+    "seedUrls": [
+      "https://www.secp.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "bisp",
+    "name": "Benazir Income Support Programme (BISP)",
+    "baseUrl": "https://bisp.gov.pk",
+    "topic": "support",
+    "seedUrls": [
+      "https://bisp.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "eobi",
+    "name": "Employees' Old-Age Benefits Institution (EOBI)",
+    "baseUrl": "https://www.eobi.gov.pk",
+    "topic": "support",
+    "seedUrls": [
+      "https://www.eobi.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "pta",
+    "name": "Pakistan Telecommunication Authority (PTA)",
+    "baseUrl": "https://pta.gov.pk",
+    "topic": "phones",
+    "seedUrls": [
+      "https://pta.gov.pk",
+      "https://dirbs.pta.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "hec",
+    "name": "Higher Education Commission (HEC)",
+    "baseUrl": "https://www.hec.gov.pk",
+    "topic": "education",
+    "seedUrls": [
+      "https://www.hec.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "fbise",
+    "name": "Federal Board of Intermediate and Secondary Education (FBISE)",
+    "baseUrl": "https://fbise.edu.pk",
+    "topic": "education",
+    "seedUrls": [
+      "https://fbise.edu.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "fpsc",
+    "name": "Federal Public Service Commission (FPSC)",
+    "baseUrl": "https://fpsc.gov.pk",
+    "topic": "jobs",
+    "seedUrls": [
+      "https://fpsc.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "ppsc",
+    "name": "Punjab Public Service Commission (PPSC)",
+    "baseUrl": "https://ppsc.gop.pk",
+    "topic": "jobs",
+    "seedUrls": [
+      "https://ppsc.gop.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "citizenportal",
+    "name": "Pakistan Citizen's Portal",
+    "baseUrl": "https://pmdu.gov.pk",
+    "topic": "complaints",
+    "seedUrls": [
+      "https://pmdu.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "pakcode",
+    "name": "Pakistan Code - Federal Laws",
+    "baseUrl": "http://pakistancode.gov.pk",
+    "topic": "complaints",
+    "seedUrls": [
+      "http://pakistancode.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "excise_punjab",
+    "name": "Excise, Taxation & Stamp Duties Department Punjab",
+    "baseUrl": "https://excise.punjab.gov.pk",
+    "topic": "vehicles",
+    "seedUrls": [
+      "https://excise.punjab.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "dlims_punjab",
+    "name": "DLIMS Punjab Driving License",
+    "baseUrl": "https://dlims.punjab.gov.pk",
+    "topic": "vehicles",
+    "seedUrls": [
+      "https://dlims.punjab.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "beoe",
+    "name": "Bureau of Emigration & Overseas Employment",
+    "baseUrl": "https://beoe.gov.pk",
+    "topic": "overseas",
+    "seedUrls": [
+      "https://beoe.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "opf",
+    "name": "Overseas Pakistanis Foundation (OPF)",
+    "baseUrl": "https://www.opf.org.pk",
+    "topic": "overseas",
+    "seedUrls": [
+      "https://www.opf.org.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "mofa",
+    "name": "Ministry of Foreign Affairs (MOFA)",
+    "baseUrl": "https://mofa.gov.pk",
+    "topic": "overseas",
+    "seedUrls": [
+      "https://mofa.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "interior",
+    "name": "Ministry of Interior",
+    "baseUrl": "https://interior.gov.pk",
+    "topic": "id",
+    "seedUrls": [
+      "https://interior.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  },
+  {
+    "id": "lesco",
+    "name": "Lahore Electric Supply Company (LESCO)",
+    "baseUrl": "https://lesco.gov.pk",
+    "topic": "utilities",
+    "seedUrls": [
+      "https://lesco.gov.pk"
+    ],
+    "allowedPathPrefixes": ["/"],
+    "maxDepth": 3
+  }
+]

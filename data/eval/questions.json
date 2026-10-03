@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "question": "How do I renew my CNIC online through NADRA?",
+    "lang": "en",
+    "expectDomains": ["nadra.gov.pk"],
+    "mustContain": ["Pak-Identity", "CNIC"]
+  },
+  {
+    "id": 2,
+    "question": "What is the fee for urgent 10 year passport renewal?",
+    "lang": "en",
+    "expectDomains": ["dgip.gov.pk"],
+    "mustContain": ["passport", "fee"]
+  },
+  {
+    "id": 3,
+    "question": "How to register NTN on FBR IRIS?",
+    "lang": "en",
+    "expectDomains": ["fbr.gov.pk"],
+    "mustContain": ["NTN", "IRIS"]
+  },
+  {
+    "id": 4,
+    "question": "CNIC renew karne ka tareeqa kya hai?",
+    "lang": "roman-ur",
+    "expectDomains": ["nadra.gov.pk"],
+    "mustContain": ["NADRA", "CNIC"]
+  },
+  {
+    "id": 5,
+    "question": "Urgent passport ki kitni fee hai?",
+    "lang": "roman-ur",
+    "expectDomains": ["dgip.gov.pk"],
+    "mustContain": ["passport", "fee"]
+  },
+  {
+    "id": 6,
+    "question": "پاسپورٹ کی سرکاری فیس کتنی ہے؟",
+    "lang": "ur",
+    "expectDomains": ["dgip.gov.pk"],
+    "mustContain": ["پاسپورٹ", "فیس"]
+  },
+  {
+    "id": 7,
+    "question": "شناختی کارڈ آن لائن کیسے رینیو کروائیں؟",
+    "lang": "ur",
+    "expectDomains": ["nadra.gov.pk"],
+    "mustContain": ["نادرا", "شناختی کارڈ"]
+  },
+  {
+    "id": 8,
+    "question": "How to check eligibility for BISP 8171 program?",
+    "lang": "en",
+    "expectDomains": ["bisp.gov.pk"],
+    "mustContain": ["BISP", "8171"]
+  },
+  {
+    "id": 9,
+    "question": "PTA mobile registration tax kaise check karein?",
+    "lang": "roman-ur",
+    "expectDomains": ["pta.gov.pk"],
+    "mustContain": ["DIRBS", "PTA"]
+  },
+  {
+    "id": 10,
+    "question": "HEC degree attestation online process step by step",
+    "lang": "en",
+    "expectDomains": ["hec.gov.pk"],
+    "mustContain": ["attestation", "HEC"]
+  },
+  {
+    "id": 11,
+    "question": "How to register a private limited company with SECP?",
+    "lang": "en",
+    "expectDomains": ["secp.gov.pk"],
+    "mustContain": ["SECP", "company"]
+  },
+  {
+    "id": 12,
+    "question": "DLIMS Punjab par learner driving license banwane ka tareeqa",
+    "lang": "roman-ur",
+    "expectDomains": ["dlims.punjab.gov.pk", "punjab.gov.pk"],
+    "mustContain": ["license"]
+  },
+  {
+    "id": 13,
+    "question": "ایکٹو ٹیکس پیئر لسٹ میں نام کیسے شامل کروائیں؟",
+    "lang": "ur",
+    "expectDomains": ["fbr.gov.pk"],
+    "mustContain": ["ایف بی آر", "تیکس"]
+  },
+  {
+    "id": 14,
+    "question": "Who won the ICC Cricket World Cup in 2023?",
+    "lang": "en",
+    "expectDomains": [],
+    "shouldBeNotFound": true
+  },
+  {
+    "id": 15,
+    "question": "What is the best recipe for biryani?",
+    "lang": "en",
+    "expectDomains": [],
+    "shouldBeNotFound": true
+  }
+]
