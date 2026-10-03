@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🇵🇰 Ask Pakistan
 
-## Getting Started
+**Ask any question about a Pakistani government service and get a clear, sourced answer with next steps, drawn only from official `.gov.pk` websites.**
 
-First, run the development server:
+> ⚠️ **Independent project. Not affiliated with, endorsed by, or operated by the Government of Pakistan.** Always confirm important details (fees, deadlines, documents) on the official website linked in each answer.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Why this project
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Information about CNIC renewal, passport fees, tax registration, BISP eligibility, or PTA phone registration is spread across dozens of government websites. It is often hard to find, outdated, or only available in English. Ask Pakistan lets people ask in plain language (English, اردو, or Roman Urdu) and returns a short answer, the steps to follow, and links to the official pages it used.
 
-## Learn More
+## Features
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- 💬 **Natural-language Q&A** over official government sources
+- 🌐 **Three languages:** English, Urdu (اردو), and Roman Urdu. Answers come back in the language of the question
+- 🔗 **Every answer is cited** with source links and a "last checked" date
+- 🔒 **Private by default:** CNIC and phone numbers are removed in the browser before a question is sent
+- 🧭 **Browse by topic:** ID & family, passport, tax, jobs & exams, social support, business, vehicles, law & complaints, education, electricity & gas, phones & PTA, overseas Pakistanis
+- 🚀 **Quick links** straight to official portals (NADRA, DGIP, FBR IRIS, BISP, PTA, Citizen Portal, and more)
+- 📚 **Directory** of every official site that is indexed
+- 🔄 **Automatic weekly re-crawl**, re-embedding only pages that changed
+- ✋ **"I couldn't find this"** instead of guessing when the sources don't cover a question
